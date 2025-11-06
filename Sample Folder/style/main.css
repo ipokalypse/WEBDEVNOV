@@ -1,0 +1,30 @@
+a{
+    text-decoration: none;
+}
+
+a:hover
+{
+    text-decoration: underline;
+}
+
+h1 h2 h3 h4 h5 h6 {
+    text-decoration: underline;
+}
+
+img {
+    width: 300px;
+    height: auto;
+    margin: 10px;
+}
+
+div {
+    text-align: center;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #9b13cd;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
